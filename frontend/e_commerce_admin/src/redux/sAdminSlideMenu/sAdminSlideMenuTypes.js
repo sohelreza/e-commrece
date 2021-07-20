@@ -1,0 +1,1 @@
+export const S_ADMIN_TOGGLE_MENU = "S_ADMIN_TOGGLE_MENU";

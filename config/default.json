@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://localhost/gymapp",
+    "jwtSecret": "ecommerce123"
+}

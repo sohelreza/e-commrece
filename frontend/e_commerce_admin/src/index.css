@@ -1,0 +1,17 @@
+/* body,
+html {
+    width: 100% !important;
+    margin: 0 !important;
+} */
+
+body {
+    font-family: Archivo, sans-serif;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    font-weight: 400;
+    /* background: #F2F4F4; */
+    /* color: #304156; */
+    /* overflow-x: hidden; */
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}

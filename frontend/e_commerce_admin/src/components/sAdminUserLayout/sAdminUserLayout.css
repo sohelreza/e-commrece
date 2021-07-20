@@ -1,0 +1,15 @@
+.container {
+    margin-left: auto !important;
+    transition: 0.5s;
+}
+
+.force-left {
+    margin-left: 100px !important;
+}
+
+.user-panel {
+    width: 81.5% !important;
+    margin-left: 250px !important;
+    margin-right: 0px !important;
+    transition: 0.5s;
+}
